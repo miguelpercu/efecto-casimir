@@ -1,0 +1,15 @@
+Parameter,Value,Units,Description
+kappa_crit,1e-78,dimensionless,Causal coherence constant
+L_Planck,1.6162550244237053e-35,m,Fundamental quantum length scale
+t_Planck,5.391246448313604e-44,s,Fundamental quantum time scale
+E_Planck,1956081636.698373,J,Fundamental quantum energy scale
+nu_Planck,1.8548586297938628e+43,Hz,Causal frequency cutoff
+rho_Planck,4.632946787895117e+113,J/m³,Maximum physical density limit
+ZPE_QFT_raw,2.2862676003911231e+114,J/m³,ZPE with Planck frequency cutoff
+ZPE_UAT_regulated,4.632946787895117e+113,J/m³,ZPE regulated by LRCP
+regulation_factor,4.93480220054468,dimensionless,Regulation factor applied
+geometric_factor,4.934802200544679,dimensionless,Geometric factor in causal tensor
+coherence_scale,1e+78,dimensionless,Coherence scale in causal tensor
+regulation_strength,4.934802200544679e+78,dimensionless,Overall regulation strength
+consistency_ratio,1.0,dimensionless,Consistency ratio ZPE/Planck
+homeostasis_achieved,True,boolean,Homeostasis achievement status
